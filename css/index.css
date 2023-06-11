@@ -1,3 +1,33 @@
 h1 {
-    background-color: aquamarine;
+    background-color: red;
+    text-align: center;
+    padding: 50px;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background-color: beige;
+    border: 20px solid yellow;
+}
+
+p {
+    text-align: center;
+    font-size: x-large;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+
+footer {
+    background-color: orangered;
+}
+
+footer p {
+    background-color: steelblue;
 }
