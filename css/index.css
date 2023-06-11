@@ -31,3 +31,13 @@ footer {
 footer p {
     background-color: steelblue;
 }
+
+a {
+    color: brown;
+    text-decoration: none;
+    margin: 10px;
+    background-color: white;
+    text-align: center;
+    margin-left: 10px;
+    
+}
